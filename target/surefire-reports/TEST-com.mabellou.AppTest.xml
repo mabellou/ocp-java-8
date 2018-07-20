@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mabellou.AppTest" time="0.048" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\marwan.bellouti\Documents\Code\Test\ocpjava8\target\test-classes;C:\Users\marwan.bellouti\Documents\Code\Test\ocpjava8\target\classes;C:\FORMATECH\REPO\junit\junit\4.11\junit-4.11.jar;C:\FORMATECH\REPO\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="BE"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\ForHRM\Common\JavaSoft\jdk1.8.0_112_64\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\MARWAN~1.BEL\AppData\Local\Temp\surefire8697018640148668250\surefirebooter3048156249033199025.jar C:\Users\marwan.bellouti\AppData\Local\Temp\surefire8697018640148668250 2018-07-20T15-28-16_173-jvmRun1 surefire8594261590890399855tmp surefire_01852040519853500448tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\marwan.bellouti\Documents\Code\Test\ocpjava8\target\test-classes;C:\Users\marwan.bellouti\Documents\Code\Test\ocpjava8\target\classes;C:\FORMATECH\REPO\junit\junit\4.11\junit-4.11.jar;C:\FORMATECH\REPO\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\marwan.bellouti"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\ForHRM\Common\JavaSoft\jdk1.8.0_112_64\jre"/>
+    <property name="basedir" value="C:\Users\marwan.bellouti\Documents\Code\Test\ocpjava8"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\MARWAN~1.BEL\AppData\Local\Temp\surefire8697018640148668250\surefirebooter3048156249033199025.jar"/>
+    <property name="sun.boot.class.path" value="C:\ForHRM\Common\JavaSoft\jdk1.8.0_112_64\jre\lib\resources.jar;C:\ForHRM\Common\JavaSoft\jdk1.8.0_112_64\jre\lib\rt.jar;C:\ForHRM\Common\JavaSoft\jdk1.8.0_112_64\jre\lib\sunrsasign.jar;C:\ForHRM\Common\JavaSoft\jdk1.8.0_112_64\jre\lib\jsse.jar;C:\ForHRM\Common\JavaSoft\jdk1.8.0_112_64\jre\lib\jce.jar;C:\ForHRM\Common\JavaSoft\jdk1.8.0_112_64\jre\lib\charsets.jar;C:\ForHRM\Common\JavaSoft\jdk1.8.0_112_64\jre\lib\jfr.jar;C:\ForHRM\Common\JavaSoft\jdk1.8.0_112_64\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_112-b15"/>
+    <property name="user.name" value="marwan.bellouti"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\ForHRM\Common\JavaSoft\jdk1.8.0_112_64\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\FORMATECH\REPO"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\MARWAN~1.BEL\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2018.1"/>
+    <property name="java.version" value="1.8.0_112"/>
+    <property name="user.dir" value="C:\Users\marwan.bellouti\Documents\Code\Test\ocpjava8"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\ForHRM\Common\JavaSoft\jdk1.8.0_112_64\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Docker\Docker\Resources\bin;C:\ForHRM\Common\JavaSoft\jdk1.8.0_112_64;D:\oracle\product\11.2.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Google\Google Apps Sync\;C:\Program Files (x86)\Google\Google Apps Migration\;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Users\marwan.bellouti\Documents\Tools\apache-maven-3.3.9\bin;C:\Users\marwan.bellouti\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.112-b15"/>
+    <property name="java.ext.dirs" value="C:\ForHRM\Common\JavaSoft\jdk1.8.0_112_64\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.mabellou.AppTest" time="0.002"/>
+</testsuite>
